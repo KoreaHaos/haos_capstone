@@ -1,2 +1,3 @@
-# haos_capstone
-Landing site for capstone
+# Haos Capstone
+
+Landing site for capstone.
